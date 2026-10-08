@@ -3,11 +3,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
 
 :root {
-  --background-color: #003ba8 !important;
-  --text-color: white !important;
-  --accent-color: #4b87f7 !important;
+    --bg-color: #050515;    
+    --card-bg: #0f1123;       
+    --accent-color: #a124f5;   
+    --accent-hover: #00ffff;   
+    --text-color: #ffffff;
 }
-
 
 * {
   font-family: ubuntu;
